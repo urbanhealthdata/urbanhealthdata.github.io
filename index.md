@@ -4,8 +4,17 @@ output:
   html_document: default
 ---
 # Urban Health Data
-## Project Showcase
 
+## Principal Investigator
+ - PI: Andy Hong, Ph.D.
+ - Contact: <a href="mailto:andyhong@gmail.com">andyhong@gmail.com</a>, <a href="https://www.andyhong.org" target="_blank">http://andyhong.org</a>
+ - George Institute for Global Health
+ - Nuffield Department of Women's and Reproductive Health
+ - University of Oxford
+ 
+![George Institute](images/george-institute.jpg)
+
+## Project Showcase
 
 ### Research projects
 
