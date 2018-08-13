@@ -14,6 +14,7 @@ output:
  
 ![George Institute](images/george-institute.jpg)
 
+
 ## Project Showcase
 
 ### Research projects
